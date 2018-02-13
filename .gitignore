@@ -1,0 +1,7 @@
+node_modules
+public
+staging
+production
+resources
+.sass-cache/
+content/post/ignore
